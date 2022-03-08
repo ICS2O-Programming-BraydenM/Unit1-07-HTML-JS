@@ -1,1 +1,2 @@
 # Unit1-07-HTML-JS
+[![GitHub's Super Linter](https://github.com/ICS2O-Programming-BraydenM/Unit1-07-HTMl-JS/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS2O-Programming-BraydenM/Unit1-07-HTML-JS/actions)
